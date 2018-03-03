@@ -212,3 +212,16 @@ body, html {
 
 
 .\5f search input[type="text"]:focus { --accent: #44ff8f }
+
+.mascot {
+  position:fixed;
+  bottom:0px;
+  left:10%;
+  max-width:30%;
+  max-height:30%;
+  opacity: 0.9
+  }
+
+.plain {
+      padding: 20px 20px 20px 20px;
+  }
