@@ -216,12 +216,8 @@ body, html {
 .mascot {
   position:fixed;
   bottom:0px;
-  left:10%;
+  left:5%;
   max-width:30%;
   max-height:30%;
   opacity: 0.9
-  }
-
-.plain {
-      padding: 20px 20px 20px 20px;
   }
