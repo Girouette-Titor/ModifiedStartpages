@@ -163,10 +163,13 @@ body, html {
 .\5f nav::after {
     content: var(--banner);
     bottom: -2em;
-    color: rgb(255, 255, 255);
+    color: #1bff91;
     left: 2;
     font: 600 22pt 'BEYNO', sans-serif;
     letter-spacing: 5px;
+    text-shadow: 2px 1.5px #ab0404;
+    box-shadow: 0px 0px 50px rgba(46, 144, 30, 0.5);
+    background-color: rgba(46, 144, 30, 0.12);
 }
 
 
