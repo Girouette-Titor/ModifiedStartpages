@@ -85,15 +85,15 @@ body, html {
 }
 
 .\5f nav {
-    --img: url("img/section-1.gif");
+    --img: url("../img/Va.gif");
     --pos: left;
 }
 
 .\5f nav section { background: var(--img) center var(--pos) / cover }
 
-.\5f nav section:nth-child(2) { --img: url("img/section-2.gif") }
-.\5f nav section:nth-child(3) { --img: url("img/section-3.gif") }
-.\5f nav section:nth-child(4) { --img: url("img/section-4-1.gif") }
+.\5f nav section:nth-child(2) { --img: url("../img/aJorLWV.gif")}
+.\5f nav section:nth-child(3) { --img: url("../img/Totoro.gif")}
+.\5f nav section:nth-child(4) { --img: url("../img/vNnDtLn.gif")}
 
 .\5f nav section:hover {
     width: 120%;
