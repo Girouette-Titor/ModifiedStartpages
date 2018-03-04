@@ -59,7 +59,7 @@
 body, html {
     height: 100vh;
     background: linear-gradient(transparent, rgb(15, 10, 18) 500%),
-                url("../img/128-194.png") repeat, #000000;
+                url("../img/128-194.jpg") repeat, #000000;
 }
 
 .\5f nav {
