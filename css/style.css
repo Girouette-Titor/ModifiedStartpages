@@ -59,7 +59,7 @@
 body, html {
     height: 100vh;
     background: linear-gradient(transparent, rgb(15, 10, 18) 500%),
-                url("../img/green-gobbler.png") repeat, #000000;
+                url("../img/128-194.png") repeat, #000000;
 }
 
 .\5f nav {
@@ -228,9 +228,9 @@ body, html {
   position:fixed;
   bottom:0px;
   left:0%;
-  max-width:20%;
-  max-height:20%;
-  opacity: 0.95;
+  max-width:7%;
+  max-height:7%;
+  opacity: 1;
   }
 
 .mascot3 {
