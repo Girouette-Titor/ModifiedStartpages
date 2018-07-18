@@ -1,12 +1,12 @@
 @charset "UTF-8";
 @font-face {
-    font-family: "scientifica";
-    src: url('../fonts/scientifica.ttf');
+    font-family: "BEYNO";
+    src: url('../fonts/BEYNO.ttf');
 }
 
 :root {
     --accent: #bd93f9;
-    --banner: 'Welcome, Girouette';
+    --banner: 'Welcome';
 }
 
  *{
